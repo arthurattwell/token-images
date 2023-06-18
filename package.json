@@ -1,0 +1,12 @@
+{
+  "name": "cardmagic-images",
+  "version": "1.0.0",
+  "description": "Images for cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server images -p 5050 --cors"
+  },
+  "author": "Arthur Attwell",
+  "license": "GPL-3.0-or-later"
+}
