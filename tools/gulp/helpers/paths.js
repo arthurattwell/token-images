@@ -6,7 +6,7 @@ const fsPath = require('path')
 const paths = {
   img: {
     source: fsPath.normalize(process.cwd() + '/source/'),
-    web: fsPath.normalize(process.cwd() + '/public/')
+    web: fsPath.normalize(process.cwd() + '/web/')
   },
   // Arrays of globs to ignore from tasks
   ignore: {
